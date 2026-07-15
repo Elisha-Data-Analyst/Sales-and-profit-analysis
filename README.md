@@ -1,4 +1,5 @@
-<img width="1877" height="635" alt="Corporate finance analysis dashboard" src="https://github.com/user-attachments/assets/ff96b5dd-647b-4195-b2e5-7607d0a94784" />
+<img width="1881" height="642" alt="Corporate finance analysis dashboard" src="https://github.com/user-attachments/assets/56cab650-c210-4f2a-bea8-c624b5ec7b66" />
+
 
 # Corporate Finance Analytics: Revenue Trajectory & Profit Leakage Audit
 ---
